@@ -1,0 +1,2 @@
+# EWSc
+EveWarStandingCopy
